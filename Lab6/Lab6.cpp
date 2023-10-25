@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     //task 1
-    //class Student
+    //Student.cpp/Student.h
     //---
 
     //task 2
@@ -34,11 +34,11 @@ int main()
     //---
 
     //task 4
-    //Student.cs
+    //Student.cpp/Student.h
     //---
 
     //task 5-6
-    //Student.cs
+    //Student.cpp/Student.h
     //---
 
     //task 7
